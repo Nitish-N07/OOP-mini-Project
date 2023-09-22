@@ -1,6 +1,6 @@
 ## Details
 
-**Members**              **Roll No**
+#### Team members
 
 SAMPREETH JANGALA       S20200010079 
 
