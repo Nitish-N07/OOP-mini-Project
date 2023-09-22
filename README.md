@@ -1,14 +1,13 @@
 ## Details
-            Group No : 40
-    Members               Roll No
+
+**Members**              **Roll No**
 SAMPREETH JANGALA       S20200010079 
 KARTHIKEYA BETHU        S20200010090 
 NITISH REDDY NANDYALA   S20200010142 
 BASAVACHARI BOPPUDI     S20200010043 
 HARITEJA UMMANENI       S20200010076
 
-## Tools used
-            Java and Mysql
+## Tools used Java and Mysql
 We wrote the code in java language and used Mysql for database.
 
 ## Porject Information
