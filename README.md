@@ -1,19 +1,6 @@
 ## Details
 
-#### Team members
 
-SAMPREETH JANGALA       S20200010079 
-
-KARTHIKEYA BETHU        S20200010090 
-
-NITISH REDDY NANDYALA   S20200010142 
-
-BASAVACHARI BOPPUDI     S20200010043 
-
-HARITEJA UMMANENI       S20200010076
-
-## Tools used Java and Mysql
-We wrote the code in java language and used Mysql for database.
 
 ## Porject Information
 We create the command line project for storing the Anime data in database.
@@ -48,3 +35,20 @@ CSV_files       ->all csv files here
             Anime.csv               csv file for Anime details
             Episode.csv             csv file for Episode details
             Movie.csv               csv file for Movie details
+
+## Tools used Java and Mysql
+We wrote the code in java language and used Mysql for database.
+
+#### Team members
+
+SAMPREETH JANGALA       S20200010079 
+
+KARTHIKEYA BETHU        S20200010090 
+
+NITISH REDDY NANDYALA   S20200010142 
+
+BASAVACHARI BOPPUDI     S20200010043 
+
+HARITEJA UMMANENI       S20200010076
+
+
